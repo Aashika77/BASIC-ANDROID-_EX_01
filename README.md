@@ -1,15 +1,21 @@
-BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
+## BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
+## PROGRAM
 
-DEVELOPED BY : AASHIKA R
+DEVELOPED BY : Aashika R
 
 REGISTER NO: 212222040001
-AIM:
+
+
+## AIM:
 
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
+
 EQUIPMENTS REQUIRED:
 
 Android Studio(Min. required Artic Fox)
-ALGORITHM:
+
+
+## ALGORITHM:
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
@@ -24,8 +30,9 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
-MainActivity.java:
 
+## MainActivity.java:
+```
 package com.example.exp1;
 
 import android.os.Bundle;
@@ -89,9 +96,9 @@ public class MainActivity extends AppCompatActivity {
         toast.show();
     }
 }
-
-Activity_Main.XML:
-
+```
+## Activity_Main.XML:
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -111,9 +118,21 @@ Activity_Main.XML:
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
+## OUTPUT:
 
-OUTPUT:
+![{DE48DD24-5FA3-42E1-8874-43283F741ECA}](https://github.com/user-attachments/assets/9ddb931e-47ac-46e7-be99-f4e18b93715e)
 
-image
-RESULT:
+## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
+
+
+
+
+
+
+
+
+
+
+
