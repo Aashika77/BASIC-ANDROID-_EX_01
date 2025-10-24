@@ -1,8 +1,8 @@
 BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
-DEVELOPED BY : ARCHANA S
+DEVELOPED BY : AASHIKA R
 
-REGISTER NO: 212222040010
+REGISTER NO: 212222040001
 AIM:
 
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
